@@ -1,6 +1,8 @@
 # GFG School Task Repository
 
-Welcome to the GFG School Task Repository! This repository is created for the purpose of completing the tasks assigned by GFG School. Below, you will find some information to help you navigate and understand this repository.
+Welcome to the GFG School Task Repository! This repository is created for the purpose of completing the tasks assigned by GFG School. Below, you will find some information to help you navigate and understand this repository. 
+
+Daily 2 to 3 Code file will be updated
 
 ## Introduction
 
